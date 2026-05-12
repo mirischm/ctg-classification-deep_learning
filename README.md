@@ -1,5 +1,5 @@
 # ctg-classification-deep_learning
-Project for deep learning class, classification 
+Project for deep learning class, classification of fetal cardiotocograms.
 Dataset: UCI Cardiotocography
 
 Methods: MLP with BatchNorm vs. Dropout, 4 LR schedulers
