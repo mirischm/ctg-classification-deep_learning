@@ -1,2 +1,9 @@
 # ctg-classification-deep_learning
-Project for deep learning class , classification 
+Project for deep learning class, classification 
+Dataset: UCI Cardiotocography
+
+Methods: MLP with BatchNorm vs. Dropout, 4 LR schedulers
+
+Best result: 94.6% accuracy, 0.91 Macro F1
+
+Libraries: PyTorch, Pandas, Scikit-learn, Seaborn
