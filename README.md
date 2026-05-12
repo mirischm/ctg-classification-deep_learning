@@ -1,4 +1,4 @@
-# ctg-classification-deep_learning
+# CTG Fetal Health Classification (PyTorch)
 Project for deep learning class, classification of fetal cardiotocograms.
 Dataset: UCI Cardiotocography
 
